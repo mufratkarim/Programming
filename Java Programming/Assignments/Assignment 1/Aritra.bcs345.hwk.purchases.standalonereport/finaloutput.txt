@@ -1,0 +1,14 @@
+Purchase Report
+---------------
+Steven King
+10 
+Queens, New York 10001
+
+Description                              Price   Quantity            Cost
+-----------                              -----   --------            ----
+Oneplus 7 Pro                          $599.99          2       $1,199.98
+Airpods                                $129.99          1         $129.99
+Slim Fit Hard Plastic Case               $2.99          2           $5.98
+Wireless Charger                        $17.99          3          $53.97
+-----------                              -----   --------            ----
+Total                                                   8       $1,389.92

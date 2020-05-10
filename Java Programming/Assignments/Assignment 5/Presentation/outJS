@@ -1,0 +1,43 @@
+{
+  "m_Customer": {
+    "m_FirstName": "Bill",
+    "m_LastName": "Gates",
+    "m_Address": {
+      "m_Number": "88-34",
+      "m_Street": "161St Street",
+      "m_City": "Jamaica",
+      "m_State": "NY",
+      "m_Zip": "11432"
+    }
+  },
+  "m_PurchaseCollection": [
+    {
+      "m_Product": {
+        "m_Description": "Oneplus 7T",
+        "m_Price": 430.99
+      },
+      "m_Quantity": 50
+    },
+    {
+      "m_Product": {
+        "m_Description": "Asus Zenfone 6",
+        "m_Price": 835.99
+      },
+      "m_Quantity": 80
+    },
+    {
+      "m_Product": {
+        "m_Description": "Microsoft Surface Pro X",
+        "m_Price": 1399.99
+      },
+      "m_Quantity": 50
+    },
+    {
+      "m_Product": {
+        "m_Description": "WWE 2K20",
+        "m_Price": 2.0
+      },
+      "m_Quantity": 1
+    }
+  ]
+}

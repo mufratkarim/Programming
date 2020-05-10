@@ -1,0 +1,29 @@
+{
+  "m_Customer": {
+    "m_FirstName": "Bill",
+    "m_LastName": "Gates",
+    "m_Address": {
+      "m_Number": "88-34",
+      "m_Street": "161St Street",
+      "m_City": "Jamaica",
+      "m_State": "NY",
+      "m_Zip": "11432"
+    }
+  },
+  "m_PurchaseCollection": [
+    {
+      "m_Product": {
+        "m_Description": "Oneplus 7T",
+        "m_Price": 650.0
+      },
+      "m_Quantity": 50
+    },
+    {
+      "m_Product": {
+        "m_Description": "Oneplus 7T",
+        "m_Price": 650.0
+      },
+      "m_Quantity": 50
+    }
+  ]
+}
