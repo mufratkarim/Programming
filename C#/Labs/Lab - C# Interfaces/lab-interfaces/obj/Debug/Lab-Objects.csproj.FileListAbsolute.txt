@@ -1,0 +1,7 @@
+C:\Users\soblab\source\repos\lab-interfaces\lab-interfaces\bin\Debug\lab-interfaces.exe.config
+C:\Users\soblab\source\repos\lab-interfaces\lab-interfaces\bin\Debug\lab-interfaces.exe
+C:\Users\soblab\source\repos\lab-interfaces\lab-interfaces\bin\Debug\lab-interfaces.pdb
+C:\Users\soblab\source\repos\lab-interfaces\lab-interfaces\obj\Debug\Lab-Objects.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\lab-interfaces\lab-interfaces\obj\Debug\Lab-Objects.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\lab-interfaces\lab-interfaces\obj\Debug\lab-interfaces.exe
+C:\Users\soblab\source\repos\lab-interfaces\lab-interfaces\obj\Debug\lab-interfaces.pdb

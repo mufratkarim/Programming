@@ -1,0 +1,7 @@
+C:\Users\soblab\source\repos\lab-objects\lab-objects\bin\Debug\lab-objects.exe.config
+C:\Users\soblab\source\repos\lab-objects\lab-objects\bin\Debug\lab-objects.exe
+C:\Users\soblab\source\repos\lab-objects\lab-objects\bin\Debug\lab-objects.pdb
+C:\Users\soblab\source\repos\lab-objects\lab-objects\obj\Debug\lab-objects.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\lab-objects\lab-objects\obj\Debug\lab-objects.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\lab-objects\lab-objects\obj\Debug\lab-objects.exe
+C:\Users\soblab\source\repos\lab-objects\lab-objects\obj\Debug\lab-objects.pdb

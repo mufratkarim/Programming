@@ -1,0 +1,7 @@
+C:\Users\soblab\source\repos\lab-Serialization\lab-Serialization\bin\Debug\lab-Serialization.exe.config
+C:\Users\soblab\source\repos\lab-Serialization\lab-Serialization\bin\Debug\lab-Serialization.exe
+C:\Users\soblab\source\repos\lab-Serialization\lab-Serialization\bin\Debug\lab-Serialization.pdb
+C:\Users\soblab\source\repos\lab-Serialization\lab-Serialization\obj\Debug\lab-Serialization.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\lab-Serialization\lab-Serialization\obj\Debug\lab-Serialization.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\lab-Serialization\lab-Serialization\obj\Debug\lab-Serialization.exe
+C:\Users\soblab\source\repos\lab-Serialization\lab-Serialization\obj\Debug\lab-Serialization.pdb

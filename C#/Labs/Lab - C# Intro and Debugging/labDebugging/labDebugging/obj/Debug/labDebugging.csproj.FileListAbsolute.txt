@@ -1,0 +1,7 @@
+C:\Users\soblab\source\repos\labDebugging\labDebugging\bin\Debug\labDebugging.exe.config
+C:\Users\soblab\source\repos\labDebugging\labDebugging\bin\Debug\labDebugging.exe
+C:\Users\soblab\source\repos\labDebugging\labDebugging\bin\Debug\labDebugging.pdb
+C:\Users\soblab\source\repos\labDebugging\labDebugging\obj\Debug\labDebugging.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\labDebugging\labDebugging\obj\Debug\labDebugging.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\labDebugging\labDebugging\obj\Debug\labDebugging.exe
+C:\Users\soblab\source\repos\labDebugging\labDebugging\obj\Debug\labDebugging.pdb

@@ -1,0 +1,16 @@
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\BankTest.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\BankTest.pdb
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\BankStuff.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\BankStuff.pdb
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\soblab\source\repos\BankStuff\BankTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\soblab\source\repos\BankStuff\BankTest\obj\Debug\BankTest.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\BankStuff\BankTest\obj\Debug\BankTest.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\BankStuff\BankTest\obj\Debug\BankTest.csproj.CopyComplete
+C:\Users\soblab\source\repos\BankStuff\BankTest\obj\Debug\BankTest.dll
+C:\Users\soblab\source\repos\BankStuff\BankTest\obj\Debug\BankTest.pdb

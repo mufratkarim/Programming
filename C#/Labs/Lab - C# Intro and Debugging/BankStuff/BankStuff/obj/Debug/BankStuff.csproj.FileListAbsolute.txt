@@ -1,0 +1,6 @@
+C:\Users\soblab\source\repos\BankStuff\BankStuff\bin\Debug\BankStuff.dll
+C:\Users\soblab\source\repos\BankStuff\BankStuff\bin\Debug\BankStuff.pdb
+C:\Users\soblab\source\repos\BankStuff\BankStuff\obj\Debug\BankStuff.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\BankStuff\BankStuff\obj\Debug\BankStuff.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\BankStuff\BankStuff\obj\Debug\BankStuff.dll
+C:\Users\soblab\source\repos\BankStuff\BankStuff\obj\Debug\BankStuff.pdb

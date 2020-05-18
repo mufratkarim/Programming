@@ -1,0 +1,7 @@
+C:\Users\soblab\source\repos\Lab-Arrays\Lab-Arrays\bin\Debug\Lab-Arrays.exe.config
+C:\Users\soblab\source\repos\Lab-Arrays\Lab-Arrays\bin\Debug\Lab-Arrays.exe
+C:\Users\soblab\source\repos\Lab-Arrays\Lab-Arrays\bin\Debug\Lab-Arrays.pdb
+C:\Users\soblab\source\repos\Lab-Arrays\Lab-Arrays\obj\Debug\Lab-Arrays.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\Lab-Arrays\Lab-Arrays\obj\Debug\Lab-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\Lab-Arrays\Lab-Arrays\obj\Debug\Lab-Arrays.exe
+C:\Users\soblab\source\repos\Lab-Arrays\Lab-Arrays\obj\Debug\Lab-Arrays.pdb
