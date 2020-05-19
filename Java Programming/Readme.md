@@ -1,2 +1,3 @@
 # Java-Programming
-All of college assignments that I am going to finish while taking my Java Course in Farmingdale State College. The course is: BCS 345 
+
+All of college assignments and labs that I have finished in my Java Course (BCS 345) in Farmingdale State College.
